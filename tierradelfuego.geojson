@@ -1,0 +1,93 @@
+{
+  "features": [
+    {
+      "properties": {
+        "nombre_completo": "Departamento Rio Grande",
+        "fuente": "Gerencia de Catastro Pcial.",
+        "nombre": "Tolhuin",
+        "id": "94011",
+        "provincia": {
+          "nombre": "Tierra del Fuego, AntÃ¡rtida e Islas del AtlÃ¡ntico Sur",
+          "id": "94",
+          "interseccion": 0.00157466830624736
+        },
+        "categoria": "Departamento"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -67.5034849431886,
+          -54.4245608958778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "nombre_completo": "Departamento AntÃ¡rtida Argentina",
+        "fuente": "SCAR",
+        "nombre": "AntÃ¡rtida Argentina",
+        "id": "94028",
+        "provincia": {
+          "nombre": "Tierra del Fuego, AntÃ¡rtida e Islas del AtlÃ¡ntico Sur",
+          "id": "94",
+          "interseccion": 0.990899967306979
+        },
+        "categoria": "Departamento"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -50.6450428018267,
+          -82.7834172335301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "nombre_completo": "Departamento RÃ­o Grande",
+        "fuente": "Gerencia de Catastro Pcial.",
+        "nombre": "RÃ­o Grande",
+        "id": "94008",
+        "provincia": {
+          "nombre": "Tierra del Fuego, AntÃ¡rtida e Islas del AtlÃ¡ntico Sur",
+          "id": "94",
+          "interseccion": 0.00157956890093448
+        },
+        "categoria": "Departamento"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -68.1361046546959,
+          -53.7462919872259
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "nombre_completo": "Departamento Ushuaia",
+        "fuente": "Gerencia de Catastro Pcial.",
+        "nombre": "Ushuaia",
+        "id": "94015",
+        "provincia": {
+          "nombre": "Tierra del Fuego, AntÃ¡rtida e Islas del AtlÃ¡ntico Sur",
+          "id": "94",
+          "interseccion": 0.00189495779781716
+        },
+        "categoria": "Departamento"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -66.6837162279656,
+          -54.7704623704114
+        ],
+        "type": "Point"
+      }
+    },
+  ],
+  "type": "FeatureCollection"
+}
