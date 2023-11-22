@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [1692, -1590],
+              [1693],
+              [1694],
+              [1695],
+              [1696],
+              [1697],
+              [1698],
+              [1699],
+              [1700],
+              [1701],
+              [1702],
+              [1703],
+              [1704],
+              [1705],
+              [1706],
+              [1707],
+              [1708],
+              [1709],
+              [1710],
+              [1711],
+              [1712],
+              [1713],
+              [1714],
+              [1715]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "gid": 510,
+        "objeto": "Departamento",
+        "fna": "Departamento Ushuaia",
+        "gna": "Departamento",
+        "nam": "Ushuaia",
+        "in1": "94015",
+        "fdc": "Gerencia de Catastro Pcial.",
+        "sag": "IGN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [1094, 1095]
+        ]
+      },
+      "properties": {
+        "gid": 199,
+        "objeto": "Departamento",
+        "fna": "Departamento Río Grande",
+        "gna": "Departamento",
+        "nam": "Río Grande",
+        "in1": "94008",
+        "fdc": "Gerencia de Catastro Pcial.",
+        "sag": "IGN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [1589, 1590, -1095, 1591]
+        ]
+      },
+      "properties": {
+        "gid": 454,
+        "objeto": "Departamento",
+        "fna": "Departamento Tolhuin",
+        "gna": "Departamento",
+        "nam": "Tolhuin",
+        "in1": "94011",
+        "fdc": "Gerencia de Catastro Pcial.",
+        "sag": "IGN"
+      }
+    }
+  ]
+}
